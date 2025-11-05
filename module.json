@@ -1,0 +1,28 @@
+{
+  "id": "vampire-the-masquered-darkness",
+  "title": "Vampire the Masquered - Darkness",
+  "description": "OneShoot de Vampiro a Máscara v5.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Crystofher Lins",      
+      "url": "https://portfolio-react-five-tawny.vercel.app/"
+    }
+  ],
+  "compatibility": {    
+    "verified": "13.350"
+  },
+  "packs": [
+    {
+      "label": "vampire-the-masquered-darkness",
+      "type": "Adventure",
+      "name": "vampire-the-masquered-darkness",
+      "path": "packs/vampire-the-masquered-darkness",
+      "private": false,
+      "flags": {},
+      "system": "vtm5e"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
